@@ -8,18 +8,11 @@ A jQuery plugin that creates hover tooltips. According to position of the elemen
 * Add a title and description attribute to the elements you want to show tooltips for.
 * Run the `adapTip()` method on those elements.
 
-## Documentation
-
-You will find the documentation for the **latest in-development version** in the [doc folder][docs] in this repository.
-
-[projectpage]: https://bertanyaman.github.io/jquery-adaptip/
-[docs]: https://github.com/bertanyaman/jquery-adaptip/tree/master/doc
-
 ## Reporting Bugs
 
 For bug reports, questions, feature requests, or other suggestions the best way to contact me is to [create an issue][newissue] on GitHub. If you don't want to use GitHub please feel free to contact me via twitter at [@bertan1yaman][twitter]. As with all open source projects: pull request > bug report > tweet.
 
-[newissue]: https://github.com/bertanyaman/jquery-adaptip/issues/new
+[newissue]: https://github.com/bertanyaman/AdapTip/issues/new
 [twitter]: https://twitter.com/bertan1yaman
 
 ## License
